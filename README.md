@@ -1,2 +1,4 @@
 # w3m-example-apis
-Sample code from class on APIs.
+A demo of loading data from the Scryfall / Magic The Gathering public API.
+
+To run locally, clone the repo, run `npm install` followed by `npm start` - then open a browser to `http://localhost:5173`.

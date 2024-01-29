@@ -1,0 +1,27 @@
+html {
+  padding: 48px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2  {
+  font-weight: bold;
+}
+
+h1 {
+  font-family: 'Russo One', sans-serif;
+  font-size: 36px;
+  line-height: 48px;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 36px;
+  margin-bottom: 36px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 30px;
+  margin-bottom: 24px;
+  max-width: 468px;
+}
