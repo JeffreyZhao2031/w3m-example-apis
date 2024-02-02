@@ -35,6 +35,7 @@ const getDataAsync = async () => {
   try {
     const response = await fetch(request)
 
+    // ok = 200 response code
     if (!response.ok) {
       throw new Error(`HTTP error! Status: ${response.status}`);
     }
